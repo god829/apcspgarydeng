@@ -1,5 +1,4 @@
-# god829.github.io
-The csp project
+
 <html>
 <head>
 <title>
@@ -21,7 +20,7 @@ Password<input type="deng" name="pswrd"/>
 function check(form)/*function to check userid & password*/
 {
  /*the following code checkes whether the entered userid and password are matching*/
- if(form.userid.value == "myuserid" && form.pswrd.value == "mypswrd")
+ if(form.userid.value == "gary" && form.pswrd.value == "deng")
   {
     window.open('https://www.w3schools.com/js/tryit.asp?filename=tryjson_array_modify')/*opens the target page while Id & password matches*/
   }
